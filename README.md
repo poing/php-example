@@ -8,6 +8,7 @@ Here is a sample status icon showing the state of the master branch.
 
 [![Build Status](https://travis-ci.com/poing/php-example.svg?branch=master)](https://travis-ci.com/poing/php-example)
 [![Coverage Status](https://coveralls.io/repos/github/poing/php-example/badge.svg?branch=master)](https://coveralls.io/github/poing/php-example?branch=master)
+[![Purpose](https://img.shields.io/static/v1.svg?label=purpose&message=testing&color=orange)]
 
 In order to run this project just fork it on github.com and then [enable](http://about.travis-ci.org/docs/user/getting-started/)
 your fork on your [travis-ci profile](http://travis-ci.org/profile). Every push will then trigger a new build on Travis CI.
