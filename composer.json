@@ -1,0 +1,14 @@
+{
+    "name": "poing/php-example",
+    "require-dev": {
+        "php-coveralls/php-coveralls": "^2.1",
+        "phpunit/phpcov": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "poing",
+            "email": "brian.lavallee@invite-comm.jp"
+        }
+    ],
+    "require": {}
+}
